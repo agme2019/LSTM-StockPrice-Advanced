@@ -8,7 +8,8 @@ An enhanced deep learning model for predicting stock prices using LSTMs with hyp
 
 This project implements a comprehensive stock price prediction system using Long Short-Term Memory (LSTM) neural networks. The model incorporates multiple technical indicators, price patterns, and market features to forecast future stock prices with improved accuracy.
 
-![Price Forecast]![price_forecast](https://github.com/user-attachments/assets/8acb549a-48c0-408b-ba7a-dfcb3096cbb8)
+Price Forecast
+![price_forecast](https://github.com/user-attachments/assets/8acb549a-48c0-408b-ba7a-dfcb3096cbb8)
 
 
 ## Features
@@ -98,14 +99,6 @@ Model: "functional_1"
 - matplotlib
 - scikit-learn
 - keras-tuner
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
-cd stock-price-prediction
-pip install -r requirements.txt
-```
 
 ### Usage
 
