@@ -1,5 +1,5 @@
 # LSTM-StockPrice-Advanced
-With feature engineering
+With feature engineering, hyper parameter tuning
 # Advanced LSTM Stock Price Prediction
 
 An enhanced deep learning model for predicting stock prices using LSTMs with hyperparameter tuning.
